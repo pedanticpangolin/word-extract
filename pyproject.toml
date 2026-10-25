@@ -25,9 +25,9 @@ dependencies = ["docextract-core>=0.1.0,<0.2", "lxml>=5"]
 wordextract = "wordextract.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/searchextract/word-extract"
-Source = "https://github.com/searchextract/word-extract"
-Issues = "https://github.com/searchextract/word-extract/issues"
+Homepage = "https://github.com/pedanticpangolin/word-extract"
+Source = "https://github.com/pedanticpangolin/word-extract"
+Issues = "https://github.com/pedanticpangolin/word-extract/issues"
 
 [project.optional-dependencies]
 # python-docx authors the synthetic fixtures (tools/make_fixtures.py); the library itself
