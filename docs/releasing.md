@@ -13,7 +13,7 @@ device. A PyPI release is permanent and public; a version number can never be re
 1. Create accounts on pypi.org and test.pypi.org with 2FA; keep the transfer codes.
 2. On **each** site, add a *pending publisher* for **both** project names. PyPI allows one
    project per (owner, repository, workflow, environment), so the two use different
-   environment names. Owner `iortega10`, repository `word-extract`, workflow `release.yml`:
+   environment names. Owner `searchextract`, repository `word-extract`, workflow `release.yml`:
    - `docextract-core`: environment `pypi` (PyPI) or `testpypi` (TestPyPI);
    - `word-extract`: environment `pypi-main` (PyPI) or `testpypi-main` (TestPyPI).
 3. In the GitHub repository, the environments `pypi`, `testpypi`, `pypi-main` and
