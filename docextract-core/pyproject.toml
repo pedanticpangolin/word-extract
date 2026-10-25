@@ -21,9 +21,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/iortega10/word-extract"
-Source = "https://github.com/iortega10/word-extract"
-Issues = "https://github.com/iortega10/word-extract/issues"
+Homepage = "https://github.com/searchextract/word-extract"
+Source = "https://github.com/searchextract/word-extract"
+Issues = "https://github.com/searchextract/word-extract/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
